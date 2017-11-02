@@ -6,7 +6,9 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
-I love my IDE
+I love my Cloud9 IDE
+
+
 Welcome to your Rails project on Cloud9 IDE!
 
 To get started, just do the following:
